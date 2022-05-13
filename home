@@ -1,0 +1,3 @@
+<div class="alert alert-primary">
+    Selamat Datang <?php echo $nama; ?> di Aplikasi Peduli Diri, tidak peduli yang lain.
+</div>
